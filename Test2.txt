@@ -1,3 +1,4 @@
 Another test file
 
 Should close item 5
+Now should close
